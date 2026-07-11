@@ -19,7 +19,7 @@ const About = () => {
             <ul>
                 <li>Modern and responsive web design</li>
                 <li>Fast and secure applications</li>
-                <li>User-friendly interfaces</li>
+                <li>User-friend interfaces</li>
                 <li>Continuous support and improvements</li>
             </ul>
 
